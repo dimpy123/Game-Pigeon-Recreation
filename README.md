@@ -1,2 +1,2 @@
 # Game-Pigeon-Recreation
-Game Pigeon 
+We are going to be recreating game pigeon games using different coding languages.
